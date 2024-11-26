@@ -39,10 +39,6 @@ The intense elation of seeing a lipstick-red circle was immediately followed by 
 *Faced with two red buttons,*  
 *He pressed both. Bad luck.*  
 
-<!-- {{% figure src="/images/the-button.png" width=300 %}} -->
-
-  <!-- <img src="/images/the-button.png" alt="Image description" style="max-width: 100%; height: auto;"> -->
-
 ![](/images/the-button.png)
 
 {{< /details >}}
