@@ -1,0 +1,40 @@
+baseURL = 'https://engineernik.com/'
+languageCode = 'en-us'
+title = 'Engineernik'
+theme = 'hugo-texify2'
+
+#[[menu.main]]
+#identifier = "post"
+#name = "Posts"
+#url = "/posts/"
+
+[params]
+title="Engineernik"
+description = "Miscellaneous rambling by Jonathan"
+images = ['images/logo.jpg']
+footnote = """
+<a class=link href=https://x.com/rad_hardened target=_blank rel=noopener>Twitter</a>
+"""
+keywords = []
+customCSS = []
+customJS = []
+dateFormat = "January 2, 2006"
+emphasisWithDots = true
+#since = "2023"
+toc = false
+showWordCount = false
+showReadingTime = false
+rootFontSize = "120%"
+math = true
+enableDuckDuckGoSearchBox = false
+numberedSubtitles = false
+
+[params.sharingbuttons]
+facebook = false
+twitter = false
+email = false
+linkedin = false
+reddit = false
+whatsapp = false
+hackernews = false
+telegram = false
