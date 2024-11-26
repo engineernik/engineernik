@@ -3,11 +3,6 @@ languageCode = 'en-us'
 title = 'Engineernik'
 theme = 'hugo-texify2'
 
-#[[menu.main]]
-#identifier = "post"
-#name = "Posts"
-#url = "/posts/"
-
 [params]
 title="Engineernik"
 description = "Miscellaneous rambling by Jonathan"
