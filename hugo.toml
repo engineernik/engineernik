@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'Engineernik'
 theme = 'hugo-texify2'
 
+relativeURLs = true
+canonifyURLs = true
+
 [params]
 title="Engineernik"
 description = "Miscellaneous rambling by Jonathan"
