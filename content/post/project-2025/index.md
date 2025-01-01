@@ -10,7 +10,7 @@ summary = 'You can just do things.'
 >
 > \- Benjamin Franklin, allegedly
 
-I spent too much time in 2024 being idle\*. I wasn't bored, per se, but I would spent hours a day daydreaming. From the beginning, some time was also spent being filled with anxiety, thinking about how the daydreams might not come to fruition. Those thoughts crescendoed over the months, until abruptly and very conclusively, there were no more daydreams to be had. Now that a painful chapter of my life has closed, it's time to write a far more pleasant chapter.
+I spent too much time in 2024 being idle\*. I wasn't bored, per se, but I would spend hours a day daydreaming. From the beginning, some time was also spent being filled with anxiety, thinking about how the daydreams might not come to fruition. Those thoughts crescendoed over the months, until abruptly and very conclusively, there were no more daydreams to be had. Now that a painful chapter of my life has closed, it's time to write a far more pleasant chapter.
 
 **In 2025, I want to do things.** Many things. A great variety of things. None of these goals will make be a fundamentally different man. These goals will simply make me a busy person that tries his hand at many craft, spends more time with friends, and becomes evermore educated.
 
