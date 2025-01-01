@@ -40,7 +40,7 @@ I spent too much time in 2024 being idle\*. I wasn't bored, per se, but I would 
 
 ## Goals
 
-Be warned, this list is long. Nevertheless, I do not thing it is unreasonable. I've set relatively low bars for all of them.
+Be warned, this list is long. Nevertheless, I do not think it is unreasonable. I've set relatively low bars for all of them.
 
 If any of these interest you personally, reach out to me. Let's do them together.
 
